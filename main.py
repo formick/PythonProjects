@@ -44,7 +44,6 @@ g = a ** 2
 h = a ** (1/2)
 i = a % b
 print(c)
-
 x = 5.7
 print(round(x))
 print(int(x))
@@ -55,3 +54,8 @@ logicka = True
 l2 = False
 
 llll = logicka and l2 or logicka
+llllllllll = logicka * l2 + logicka
+
+print(type(logicka))
+
+print(not logicka)
