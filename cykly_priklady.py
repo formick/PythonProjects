@@ -13,7 +13,7 @@ print(" ")
 
 soucet = 0
 for i in range(5,12):
-    soucet = soucet + i
+    soucet = soucet + i  # soucet = soucet + 1    
     print(soucet)
 
 
